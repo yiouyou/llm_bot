@@ -5,5 +5,5 @@
 from frappe.model.document import Document
 
 
-class LLMChatSettings(Document):
+class LLMBotSettings(Document):
 	pass

@@ -1,0 +1,23 @@
+{
+ "content": null,
+ "creation": "2024-03-09 18:13:58.968332",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2024-03-09 18:13:58.968332",
+ "modified_by": "Administrator",
+ "module": "LLM Bot",
+ "name": "ask-llm",
+ "owner": "Administrator",
+ "page_name": "ask-llm",
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Ask LLM"
+}

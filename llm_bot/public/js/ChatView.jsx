@@ -26,7 +26,7 @@ const ChatView = ({ sessionID }) => {
     {
       from: "ai",
       isLoading: false,
-      content: "How can I help you?",
+      content: "有事您说话~",
     },
   ]);
 

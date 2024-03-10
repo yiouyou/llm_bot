@@ -5,15 +5,15 @@
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
-  "openai_model"
+  "llm_type"
  ],
  "fields": [
   {
-   "default": "gpt-3.5-turbo",
-   "fieldname": "openai_model",
+   "default": "MistralAI",
+   "fieldname": "llm_type",
    "fieldtype": "Select",
-   "label": "OpenAI Model",
-   "options": "gpt-3.5-turbo\ngpt-3.5-turbo-16k\ngpt-4\ngpt-4-32k"
+   "label": "LLM Type",
+   "options": "MistralAI\nOpenAI\nAnthropic\nGemini\nGroq\nKimi\n文心\n智谱\n千问"
   }
  ],
  "index_web_pages_for_search": 1,

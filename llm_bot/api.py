@@ -13,7 +13,7 @@ from langchain_community.chat_message_histories import RedisChatMessageHistory
 @frappe.whitelist()
 def get_chatbot_response(session_id: str, prompt_message: str) -> str:
     llm_type = get_llm_type_from_settings()
-    if llm_type == 'Mistral AI':
+    if llm_type == 'MistralAI':
         mistral_api_key = frappe.conf.get("mistral_api_key")
         if not mistral_api_key:
             frappe.throw("Please set `mistral_api_key` in site config")

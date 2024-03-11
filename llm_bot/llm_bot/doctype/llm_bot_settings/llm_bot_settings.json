@@ -13,7 +13,7 @@
    "fieldname": "llm_type",
    "fieldtype": "Select",
    "label": "LLM Type",
-   "options": "MistralAI\nOpenAI\nAnthropic\nGemini\nGroq\nKimi\n文心\n智谱\n千问"
+   "options": "MistralAI\nOpenAI\nAnthropic\nGemini\nGroq\n文心\n智谱\n千问\n月之暗面"
   }
  ],
  "index_web_pages_for_search": 1,

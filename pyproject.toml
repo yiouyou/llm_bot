@@ -1,5 +1,5 @@
 [project]
-name = "llm_chat"
+name = "llm_bot"
 authors = [
     { name = "yiouyou", email = "zhuosong@gmail.com"}
 ]

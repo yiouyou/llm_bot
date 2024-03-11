@@ -1,8 +1,8 @@
 frappe.ui.keys.add_shortcut({
   shortcut: "shift+ctrl+d",
   action: function () {
-    // navigate to ask llm page
-    frappe.set_route("ask-llm");
+    // navigate to LLM Bot page
+    frappe.set_route("llm-bot");
   },
-  description: __("Ask LLM"),
+  description: __("LLM Bot"),
 });

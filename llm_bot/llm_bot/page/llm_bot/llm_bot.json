@@ -7,9 +7,9 @@
  "modified": "2024-03-09 18:13:58.968332",
  "modified_by": "Administrator",
  "module": "LLM Bot",
- "name": "ask-llm",
+ "name": "llm-bot",
  "owner": "Administrator",
- "page_name": "ask-llm",
+ "page_name": "llm-bot",
  "roles": [
   {
    "role": "System Manager"
@@ -19,5 +19,5 @@
  "standard": "Yes",
  "style": null,
  "system_page": 0,
- "title": "Ask LLM"
+ "title": "LLM Bot"
 }

@@ -75,7 +75,7 @@ const ChatView = ({ sessionID }) => {
       maxWidth={"4xl"}
       mx={"auto"}
     >
-      {/* <Text fontSize="xl" fontWeight={"bold"} textColor={"gray.700"}>Ask llmBot</Text> */}
+      {/* <Text fontSize="xl" fontWeight={"bold"} textColor={"gray.700"}>LLM Bot</Text> */}
       {/* Chat Area */}
       <Box
         width={"100%"}
